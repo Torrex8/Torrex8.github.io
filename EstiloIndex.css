@@ -5,6 +5,7 @@ h1{
     font-size: 50px;
     background-image: url(https://media.istockphoto.com/id/1060558458/es/vector/fin-juegos-pantalla-glitch-frase-de-videojuegos-de-ordenador-y-tocando-la-pantalla-de-la.jpg?s=1024x1024&w=is&k=20&c=wvYNdCFmntjP1x0LRtWE8jND0A8jnqMdYatXZllDjzk=);
     margin: 0;
+    text-align: left;
 }
 body{    
     background-image: url(https://img.magnific.com/vector-gratis/fondo-abstracto-blanco_23-2148832014.jpg?semt=ais_hybrid&w=740&q=80);
@@ -12,6 +13,7 @@ body{
     background-position: center;
 }
 nav{
+    font-size: 30px;
     ol{
     margin: 0;
     padding: 0;
@@ -30,7 +32,7 @@ nav{
     }
 }
 header p{
-    background-image: url(https://media.istockphoto.com/id/1060558458/es/vector/fin-juegos-pantalla-glitch-frase-de-videojuegos-de-ordenador-y-tocando-la-pantalla-de-la.jpg?s=1024x1024&w=is&k=20&c=wvYNdCFmntjP1x0LRtWE8jND0A8jnqMdYatXZllDjzk=);
-    text-align: center;
-    margin: 0;
+        background-image: url(https://media.istockphoto.com/id/1060558458/es/vector/fin-juegos-pantalla-glitch-frase-de-videojuegos-de-ordenador-y-tocando-la-pantalla-de-la.jpg?s=1024x1024&w=is&k=20&c=wvYNdCFmntjP1x0LRtWE8jND0A8jnqMdYatXZllDjzk=);
+        text-align: center;
+        margin: 0;
 }
