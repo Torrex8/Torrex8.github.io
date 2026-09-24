@@ -1,3 +1,36 @@
 h1{
     color:black;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    background-color: blueviolet;
+    margin: 0;
+}
+body{    
+    background-image: url(https://img.magnific.com/vector-gratis/fondo-abstracto-blanco_23-2148832014.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+}
+nav{
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    width: 25%;
+    }
+    a{
+        text-decoration: none;
+        color: yellow;
+    }
+}
+header p{
+    background-color:blueviolet;
+    text-align: center;
+    margin: 0;
 }

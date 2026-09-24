@@ -1,3 +1,8 @@
 h1{
     color:black;
 }
+body{    
+    background-image: url(https://img.magnific.com/vector-gratis/fondo-abstracto-blanco_23-2148832014.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+}
