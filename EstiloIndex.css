@@ -1,9 +1,9 @@
 h1{
-    color:black;
+    color:white;
     display: flex;
     justify-content: center;
     font-size: 50px;
-    background-color: blueviolet;
+    background-image: url(https://media.istockphoto.com/id/1060558458/es/vector/fin-juegos-pantalla-glitch-frase-de-videojuegos-de-ordenador-y-tocando-la-pantalla-de-la.jpg?s=1024x1024&w=is&k=20&c=wvYNdCFmntjP1x0LRtWE8jND0A8jnqMdYatXZllDjzk=);
     margin: 0;
 }
 body{    
@@ -30,7 +30,7 @@ nav{
     }
 }
 header p{
-    background-color:blueviolet;
+    background-image: url(https://media.istockphoto.com/id/1060558458/es/vector/fin-juegos-pantalla-glitch-frase-de-videojuegos-de-ordenador-y-tocando-la-pantalla-de-la.jpg?s=1024x1024&w=is&k=20&c=wvYNdCFmntjP1x0LRtWE8jND0A8jnqMdYatXZllDjzk=);
     text-align: center;
     margin: 0;
 }
