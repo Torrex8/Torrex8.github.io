@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://img.magnific.com/foto-gratis/foto-patron-textura-piedra_58702-16036.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#banner{
+    text-align: center;
+}
+footer{
+    color: white;
+}
+.Fortnite{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Counter-Strike{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Valorant{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
