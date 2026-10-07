@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://img.magnific.com/foto-gratis/foto-patron-textura-piedra_58702-16036.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+#banner{
+    text-align: center;
+}
+footer{
+    color: white;
+}
+.Fortnite{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Counter-Strike{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Valorant{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.ApexLegends{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.CallOfDuty{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Overwatch{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.RainbowSixSiege{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Battlefield{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Battlefront{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: yellow;
+    color: white;
+    padding: 5px 0px;
+    width: 33.33%;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
