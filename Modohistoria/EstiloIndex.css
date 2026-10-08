@@ -1,0 +1,162 @@
+body{
+    background-image: url(https://img.magnific.com/foto-gratis/foto-patron-textura-piedra_58702-16036.jpg?semt=ais_hybrid&w=740&q=80);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+#banner{
+    text-align: center;
+}
+footer{
+    color: white;
+}
+.AlanWake{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Batman{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.BlackMythWukong{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Cyberpunk2077{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.DarkSouls{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.DaysGone{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.DeadSpace{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.DeathStranding{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.DetroitBecomeHuman{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.EldenRing{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Fallout{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Farcry{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.GhostOfTsushima{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.GodOfWar{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.GtaV{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.HollowKnight{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Horizon{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.RedDeadRedemption{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.ResidentEvil{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Sekiro{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Spiderman{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.TheLastOfUs{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.TheWitcher{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Uncharted{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+.Wolverine{
+    text-align: left;
+    margin-left: 20px;
+    display: inline-block;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: yellow;
+    color: white;
+    padding: 5px 0px;
+    width: 33.33%;
+    }
+    a{
+        text-decoration: none;
+        color: black;
+    }
+}
