@@ -1,0 +1,35 @@
+body{
+    background-image: url(RainbowSixSiege_fondo.jpg);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 70px;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    border: 2px solid white;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    width: 33.11%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
