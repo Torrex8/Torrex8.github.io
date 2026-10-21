@@ -5,9 +5,10 @@ body{
     margin: 0;
 }
 h1{
+    font-family: "Honk";
+    font-size: 100px;
     text-align: center;
     color: white;
-    font-size: 70px;
 }
 #banner{
     text-align: center;
@@ -149,11 +150,12 @@ nav{
     text-align: center;
     }
     li{
+    border: 1px solid black;
     display: inline-block;
     background-color: yellow;
     color: white;
     padding: 5px 0px;
-    width: 33.33%;
+    width: 33.22%;
     }
     a{
         text-decoration: none;
