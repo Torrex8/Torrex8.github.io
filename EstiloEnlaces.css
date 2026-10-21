@@ -6,3 +6,23 @@ body{
     background-size: cover;
     background-position: center;
 }
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    width: 33.33%;
+    }
+    a{
+        text-decoration: none;
+        color: yellow;
+    }
+}
