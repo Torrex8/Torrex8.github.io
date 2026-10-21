@@ -1,5 +1,5 @@
 body{
-    background-image: url(GhostOfTsushima_fondo.png);
+    background-image: url(Spiderman_fondo.png);
     background-size: cover;
     background-position: center;
     margin: 0;
@@ -21,16 +21,16 @@ nav{
     text-align: center;
     }
     li{
-    border: 1px solid black;
+    border: 3px solid white;
     display: inline-block;
-    background-color: red;
+    background-color: black;
     color: white;
     padding: 5px 0px;
-    width: 24.89%;
+    width: 24.76%;
     margin: 0;
     }
     a{
         text-decoration: none;
-        color: black;
+        color: white;
     }
 }
