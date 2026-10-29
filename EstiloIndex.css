@@ -39,3 +39,7 @@ header p{
         text-align: center;
         margin: 0;
 }
+div{
+    color: red;
+    text-decoration: underline 3px;
+}
