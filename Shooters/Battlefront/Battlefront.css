@@ -1,9 +1,30 @@
 body{
-    background-image: url(Battlefront_fondo.jpg);
+    background-image: url(battlefront_fondo.jpg);
     background-size: cover;
     background-position: center;
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
     color: white;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    border: 1px solid white;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 5px 0px;
+    width: 49.88%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
 }

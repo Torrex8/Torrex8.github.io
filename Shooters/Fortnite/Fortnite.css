@@ -7,3 +7,29 @@ body{
     background-attachment: fixed;
     color: white;
 }
+h1{
+    text-align: center;
+    color: black;
+    font-size: 70px;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    border: 1px solid black;
+    display: inline-block;
+    background-color: blue;
+    color: white;
+    padding: 5px 0px;
+    width: 19.89%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
