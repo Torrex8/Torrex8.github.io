@@ -10,7 +10,7 @@ h1{
     text-align: center;
     color: white;
 }
-#banner{
+p:first-of-type{
     text-align: center;
 }
 footer{
@@ -51,4 +51,8 @@ nav{
         text-decoration: none;
         color: black;
     }
+}
+img:not(#banner):hover{
+    transform: scale(1.1);
+    transition: 0.5s;
 }
