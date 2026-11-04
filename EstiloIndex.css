@@ -43,3 +43,7 @@ div{
     color: red;
     text-decoration: underline 3px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
