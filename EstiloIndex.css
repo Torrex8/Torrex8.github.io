@@ -47,3 +47,13 @@ a{
     text-decoration: none;
     color: black;
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+img:not(#banner):hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
