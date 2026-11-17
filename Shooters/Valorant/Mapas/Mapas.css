@@ -1,0 +1,53 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+article{
+    border-top: 3px solid black;
+    text-align: center;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    width: 20%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
+body{
+    background-color: #EBE7E2;
+}
+div{
+    color: red;
+    text-decoration: underline 3px;
+}
+ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+
+}
+p{
+    font-size: 20px;
+}

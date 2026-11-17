@@ -1,0 +1,50 @@
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background-color: #ECE8E1;
+}
+section{
+    text-align: center;
+}
+article{
+    position: relative;
+    vertical-align: top;
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+article:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+nav{
+    font-size: 30px;
+    margin: 0;
+    ol{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    }
+    li{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    width: 20%;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+}
